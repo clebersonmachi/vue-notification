@@ -71,10 +71,6 @@ export default {
     z-index: 90000;
 }
 
-.list-item {
-    display: inline-block;
-    margin-right: 10px;
-}
 .list-enter-active,
 .list-leave-active {
     transition: all ease-in-out 0.4s;
