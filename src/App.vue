@@ -4,7 +4,9 @@
 
         <img alt="Vue logo" src="./assets/logo.png" />
 
-        <button @click="addNotification">Adicionar notificação</button>
+        <div>
+            <button @click="addNotification">Adicionar notificação</button>
+        </div>
 
         <HelloWorld msg="Welcome to Your Vue.js App" />
     </div>
