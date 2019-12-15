@@ -2,4 +2,4 @@
 
 Simple example of notification with vue-js
 
-See `components/notifications/notifications.vue`
+See `src/components/notifications/notifications.vue`
